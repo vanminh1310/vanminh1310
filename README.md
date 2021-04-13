@@ -1,9 +1,8 @@
-### Hello world 👋
+
 ![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true&colorA=%23f53838&colorB=%2300cc69)
 
 <h1 align="center">Hi 👋, I'm Minh</h1>
 <h3 align="center">Want to become an embedded programmer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanminh1310&label=Profile%20views&color=0e75b6&style=flat" alt="vanminh1310" /> </p>
 
 - 🌱 I am learning to build an IOT system 

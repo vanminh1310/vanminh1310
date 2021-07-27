@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Embedded Microcontroller
 
-- 💬 Ask me about [VI](https://github.com/vanminh1310/vanminh1310/blob/main/TA_VAN_MINH_CV.pdf)
+- 💬 Ask me about [VI](https://github.com/vanminh1310/vanminh1310/blob/main/TA_VAN_MINH%20-%20Copied.pdf)
 
 - 📫 How to reach me [Facebook](https://www.facebook.com/vanminh1310) | [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCVwStVBMBDZLhjZXgWqGsPMbwbwHcKFDkWNKcmDjZHZfjKCNxgCfmgqcfcVjVPPgkgvkBL) | [Instagram](https://www.instagram.com/minhhvann/)
 
